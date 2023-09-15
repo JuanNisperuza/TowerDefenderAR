@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdda2c747b2a3f2468fbf71e40d1354b, type: 3}
+  m_Name: DoubleTurret
+  m_EditorClassIdentifier: 
+  BuildName: Double Turret
+  BuildImage: {fileID: 21300000, guid: da550ed9bbd0c20488fd55a2e6d8c021, type: 3}
+  Model: {fileID: 5612369435559092347, guid: b523bd1f3aa5bad4b8a1c6dcd0281ecd, type: 3}
+  Price: 300
